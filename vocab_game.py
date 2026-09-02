@@ -104,8 +104,8 @@ ans2 = st.text_input(
     value=st.session_state.ans2_val,
 )
 ans3 = st.text_input(
-    "ข้อ 3: If you want a sour drink, you need `l _ _ m o n ` . 🍋",
-    value=st.session_state.ans2_val,
+    "ข้อ 3: If you want a sour drink, you need `l _  m o n ` . 🍋",
+    value=st.session_state.ans3_val,
 )
 ans4 = st.text_input(
     "ข้อ 4: Green soft and creamy fruit, it is `A _ _ c _ d o ` . 🥑",
