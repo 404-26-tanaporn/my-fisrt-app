@@ -109,7 +109,7 @@ ans3 = st.text_input(
 )
 ans4 = st.text_input(
     "ข้อ 4: Green soft and creamy fruit, it is `A _ _ c _ d o ` . 🥑",
-    value=st.session_state.ans3_val = ans3
+    value=st.session_state.ans4_val = ans4
 )
 # อัปเดตค่าล่าสุดเข้าตัวแปร
 st.session_state.ans1_val = ans1
