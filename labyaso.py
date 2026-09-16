@@ -29,4 +29,3 @@ st.write(f"VAT 7%: {vat:.2f} บาท")
 st.header(f"💰 ราคาสุทธิ: {net_price:.2f} บาท")
 
 st.divider()
-st.write("นางสาวธนภรณ์ สุวรรณไพโรจน์ เลขที่ 26 ม.4/4")
